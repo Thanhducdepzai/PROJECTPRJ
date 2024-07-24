@@ -3,7 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/pc/Documents/GitHub/PROJECTPRJ/ProjectPrj/web/index.html</file>
+            <file>file:/C:/Users/pc/Documents/NetBeansProjects/ProjectPrj2/src/java/Controllers/Admin/ListAllProduct.java</file>
+            <file>file:/C:/Users/pc/Documents/NetBeansProjects/ProjectPrj2/web/index.html</file>
+            <file>file:/C:/Users/pc/Documents/NetBeansProjects/ProjectPrj2/src/java/Controllers/Admin/AddProductSevrlet.java</file>
+            <file>file:/C:/Users/pc/Documents/NetBeansProjects/ProjectPrj2/src/java/Controllers/Admin/UpdateProduct.java</file>
         </group>
     </open-files>
 </project-private>
